@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://zhoupengju.cn/blog.io
+url: https://mazhuang.org
 date_format: "ordinal"
 title: ZPJ
 subtitle: "自由而无用的灵魂"
@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 author: Pengju Zhou
 organization: 
 organization_url: 
-github_username: ZPJ8
+github_username: mzlogin
 location: Shanghai, China
 email: 498117725@qq.com
 
