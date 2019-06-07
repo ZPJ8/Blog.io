@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://zpj8.github.io/Blog.io
+url: https://zhoupengju.cn/Blog.io
 date_format: "ordinal"
 title: ZPJ
 subtitle: "自由而无用的灵魂"
